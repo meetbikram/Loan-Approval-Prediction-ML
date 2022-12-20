@@ -16,7 +16,7 @@ Yes: if the loan is approved
 No: if the loan is not approved
 So using the training dataset we will train our model and try to predict our target column that is “Loan Status” on the test dataset.
 
-Wrote a Research Paper: https://drive.google.com/file/d/1icvTmA1wVRpmhW3iaz2ZyMvj_N0MAfA9/view?usp=sharing
+Wrote a Research Paper: https://drive.google.com/file/d/1hcVUvEi2O1tMUd-PFTpGs09B4KB1Hdt6/view?usp=sharing
 
 ## The Conclusion from Model Building
 Therefore, Random Forest and Logistic Regression are the best model for this prediction since their accuracy_score lies between 0.83 to 0.85. After using all these customer records, we are able to build a machine learning model to accurately predict whether or not the customers in the dataset would get loan approved or not along with that we were able to draw some insights from the data via data analysis and visualization.
